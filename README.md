@@ -5,7 +5,7 @@ This repository is a central hub for all resources, project ideas, and guideline
 
 🌸 Have questions about the organization or the projects? Check out the [Frequently Asked Questions (FAQs)](https://github.com/processing/Processing-Foundation-GSoC/wiki/FAQs-(2026)).
 
-🌸 Have more questions? Checj the [GSoC 2026 Discourse thread](https://discourse.processing.org/t/updates-about-gsoc-2026-org-application-in-progress/47450)!
+🌸 Have more questions? Check the [GSoC 2026 Discourse thread](https://discourse.processing.org/t/updates-about-gsoc-2026-org-application-in-progress/47450)!
 
 > [!IMPORTANT]  
 > Pull Requests submitted to this repository will most likely be closed if they are made by anyone who is not a GSoC Processing Foundation mentor, org admin, contributor, or alumn. Thank you for understanding!
